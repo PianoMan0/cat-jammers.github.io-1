@@ -19,3 +19,8 @@ export function searchBar(): string {
     </div>
   `;
 }
+
+
+`
+<a href="#">Ad page for people who want to see ads for some reason.</a>
+`
